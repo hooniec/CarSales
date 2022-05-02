@@ -1,4 +1,3 @@
 # Car Sales Webpage
-***
 
-## Responsive web design project
+Responsive web design project
